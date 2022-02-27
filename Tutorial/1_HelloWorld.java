@@ -15,7 +15,7 @@ class HelloWorld {
     
     // System = classe do pacote java.lang
     // out = membro estatico da classe System sendo uma instancia do java.io.PrintStream.
-    // "plintln" = metodo do java.io.PrintStream - metodo encarregado de imprimir mensagens no console
+    // "println" = metodo do java.io.PrintStream - metodo encarregado de imprimir mensagens no console
   }
   
 }
