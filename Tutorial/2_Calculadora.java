@@ -1,4 +1,4 @@
-// Classe basica para a realizacao de soma
+// Classe basica para a realizacao de operações básicas
 class Calculadora {
 
   public static void main(String[] args) {
