@@ -2,6 +2,7 @@
 Demonstração de Algoritmos e resoluções de problemas com a linguagem Java;
 
 ## Documentação: 
+    *https://docs.oracle.com/javase/tutorial/java/TOC.html 
     * https://docs.oracle.com/javase/tutorial/java/concepts/index.html
 
 ## Apoio: 
